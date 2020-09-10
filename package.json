@@ -28,7 +28,7 @@
     "jsonwebtoken": "^8.1.0",
     "lodash": "^4.17.4",
     "mkdirp": "^0.5.1",
-    "node-fetch": "^1.7.3",
+    "node-fetch": "^2.6.1",
     "pino": "^4.10.2",
     "reflect-metadata": "^0.1.10",
     "split2": "^2.2.0",
